@@ -1,1 +1,1 @@
-# CSC466CloudLab
+# csc466cloud
